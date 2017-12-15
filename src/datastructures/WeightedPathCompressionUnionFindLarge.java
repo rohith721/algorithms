@@ -4,7 +4,7 @@
  * the connected component containing i
  * The operations, union(), connected(), and large() should all take logarithmic time or better.
  * For example, if one of the connected components is {1,2,6,9},
- * then the large() method should return 9 for each of the four elements in the connected components.
+ * then the large() method should return 9 for each of the four elements in the connected components
 */
 package datastructures;
 
