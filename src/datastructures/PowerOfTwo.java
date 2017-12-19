@@ -2,7 +2,7 @@ package datastructures;
 
 public class PowerOfTwo {
     public static void main(String[] args) {
-        int number = 2048;
+        int number = 80;
         if((number & (number-1))==0){
             System.out.println("number is power of 2");
         }
