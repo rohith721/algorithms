@@ -67,6 +67,7 @@ private class FirstIteratorLinkedList implements Iterator<Item>{
         while(it.hasNext()){
             System.out.println(it.next());
         }
+        System.out.println(stack.size());
         for(int i = 0;i<r.length();i++){
             System.out.println(stack.pop());
         }
