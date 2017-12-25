@@ -1,6 +1,5 @@
 package datastructures;
 
-import edu.princeton.cs.algs4.In;
 
 public class MergeSort  {
     private static void merge(Comparable[] a,Comparable[] aux,int lo,int mid,int hi){
